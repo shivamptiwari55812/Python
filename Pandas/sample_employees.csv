@@ -1,0 +1,7 @@
+ID,Name,Department,Position,Email,Salary
+1,John Doe,Engineering,Software Engineer,john.doe@example.com,75000
+2,Jane Smith,Marketing,Marketing Manager,jane.smith@example.com,68000
+3,Bob Johnson,Sales,Sales Executive,bob.johnson@example.com,62000
+4,Alice Williams,Engineering,DevOps Engineer,alice.williams@example.com,77000
+5,Michael Brown,HR,HR Specialist,michael.brown@example.com,55000
+6,Linda Davis,Finance,Accountant,linda.davis@example.com,60000
